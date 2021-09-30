@@ -9,6 +9,7 @@
 !.vim/
 !.vimrc.d/
 !.tmux.conf
+!.tmux.d/
 !.gitconfig
 
 # Ignore all files names .DS_Store or ending with .log
