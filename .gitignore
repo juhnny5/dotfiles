@@ -12,4 +12,4 @@
 **.log
 
 # Blacklist folder or files
-/.bashrd.d/ssh.bashrc
+/.bashrc.d/ssh.bashrc
