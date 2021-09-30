@@ -4,10 +4,12 @@
 # Whitelist some files
 !.gitignore
 !.bashrc.d/
+!.bashrc/
 !.vimrc
 !.vim/
 !.vimrc.d/
 !.tmux.conf
+!.gitconfig
 
 # Ignore all files names .DS_Store or ending with .log
 **/.DS_Store
