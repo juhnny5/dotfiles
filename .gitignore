@@ -1,0 +1,15 @@
+# Ignore everything
+/*
+
+# Whitelist some files
+!.gitignore
+!.bashrc.d/
+!.vimrc
+!.vim/
+
+# Ignore all files names .DS_Store or ending with .log
+**/.DS_Store
+**.log
+
+# Blacklist folder or files
+/.bashrd.d/ssh.bashrc

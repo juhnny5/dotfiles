@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+# Enable strict mode
+# More informations: 'http://redsymbol.net/articles/unofficial-bash-strict-mode/'
+set -Eeuo pipefail
+IFS=$'\n\t'
