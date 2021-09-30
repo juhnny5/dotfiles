@@ -7,6 +7,7 @@
 !.vimrc
 !.vim/
 !.vimrc.d/
+!.tmux.conf
 
 # Ignore all files names .DS_Store or ending with .log
 **/.DS_Store
